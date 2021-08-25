@@ -1,0 +1,49 @@
+2021-04-25 22:05:32,967 - BrowserEngine - INFO - You had select Chrome browser.
+2021-04-25 22:05:32,967 - BrowserEngine - INFO - The test server url is: https://wms.hupun.com/login.d.
+2021-04-25 22:05:35,966 - BrowserEngine - INFO - Starting Chrome browser.
+2021-04-25 22:05:42,660 - BrowserEngine - INFO - Open url: https://wms.hupun.com/login.d.
+2021-04-25 22:05:45,829 - BrowserEngine - INFO - Maximize the current window.
+2021-04-25 22:05:45,830 - BrowserEngine - INFO - Set implicity wait 10 seconds.
+2021-04-25 22:05:47,864 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='d_mobile']/div/input 
+2021-04-25 22:05:47,959 - BasePage - INFO - Had type ' 17826875820 '  in input box.
+2021-04-25 22:05:47,978 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='d_mPwd']/div/input 
+2021-04-25 22:05:48,057 - BasePage - INFO - Had type ' bessie1234 '  in input box.
+2021-04-25 22:05:50,081 - BasePage - INFO - Had find the element ' 登 录 ' successful by xpath via value: //*[@id='login']/span 
+2021-04-25 22:05:50,392 - BasePage - INFO - The element ' 登录中，请稍候... 's was clicked.
+2021-04-25 22:05:57,085 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2021-04-25 22:05:59,113 - BasePage - INFO - Had find the element ' 我知道啦！ ' successful by xpath via value: //*[text()='我知道啦！'] 
+2021-04-25 22:05:59,130 - BasePage - INFO - Had find the element ' 我知道啦！ ' successful by xpath via value: //*[text()='我知道啦！'] 
+2021-04-25 22:05:59,170 - BasePage - INFO - The element '  's was clicked.
+2021-04-25 22:06:09,215 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='d__uid_20_close']"}
+  (Session info: chrome=79.0.3945.130)
+
+2021-04-25 22:06:09,803 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2021-04-25 22:06:09,821 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='showStorage'] 
+2021-04-25 22:06:09,861 - BasePage - INFO - The element '  's was clicked.
+2021-04-25 22:06:09,881 - BasePage - INFO - Had find the element ' 自动化测试仓勿动 ' successful by xpath via value: //*[text()='自动化测试仓勿动'] 
+2021-04-25 22:06:09,923 - BasePage - INFO - The element ' 自动化测试仓勿动 's was clicked.
+2021-04-25 22:06:11,928 - BasePage - INFO - Sleep for 2 seconds.
+2021-04-25 22:06:13,960 - BasePage - INFO - Had find the element ' 出库 ' successful by xpath via value: //*[text()='出库'] 
+2021-04-25 22:06:14,010 - BasePage - INFO - The element ' 出库 's was clicked.
+2021-04-25 22:06:14,031 - BasePage - INFO - Had find the element ' 订单查询 ' successful by xpath via value: //*[text()='订单查询'] 
+2021-04-25 22:06:14,092 - BasePage - INFO - The element '  's was clicked.
+2021-04-25 22:06:16,213 - BasePage - INFO - Had switch to the iframe.
+2021-04-25 22:06:16,243 - BasePage - INFO - Had find the element ' 近30天 ' successful by xpath via value: //*[text()='近30天'] 
+2021-04-25 22:06:16,367 - BasePage - INFO - The element ' 近30天 's was clicked.
+2021-04-25 22:06:16,388 - BasePage - INFO - Had find the element ' 查询 ' successful by xpath via value: //*[@id='d_btnSearch'] 
+2021-04-25 22:06:16,483 - BasePage - INFO - The element ' 查询 's was clicked.
+2021-04-25 22:06:18,512 - BasePage - INFO - Had find the element '  导出 ' successful by xpath via value: //*[@id='d_btnExport'] 
+2021-04-25 22:06:18,622 - BasePage - INFO - The element '  导出 's was clicked.
+2021-04-25 22:06:19,651 - BasePage - INFO - Had find the element ' 确定 ' successful by xpath via value: //*[@id='d_btnSubmitExport'] 
+2021-04-25 22:06:19,738 - BasePage - INFO - The element ' 确定 's was clicked.
+2021-04-25 22:06:23,396 - BasePage - INFO - Sleep for 2 seconds.
+2021-04-25 22:06:33,455 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='d__uid_20_close']"}
+  (Session info: chrome=79.0.3945.130)
+
+2021-04-25 22:06:34,030 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2021-04-25 22:06:36,057 - BasePage - INFO - Had find the element ' bessie ' successful by xpath via value: //*[text()='bessie'] 
+2021-04-25 22:06:36,120 - BasePage - INFO - The element ' bessie 's was clicked.
+2021-04-25 22:06:36,142 - BasePage - INFO - Had find the element ' 数据中心 ' successful by xpath via value: //*[text()='数据中心'] 
+2021-04-25 22:06:36,415 - BasePage - INFO - The element '  's was clicked.
+2021-04-25 22:06:36,600 - BasePage - INFO - Had find the element ' 等待中 ' successful by xpath via value: //tbody/tr/td/div/table/tbody/tr[1]/td[5]/div/span/font 
+2021-04-25 22:06:38,618 - BasePage - INFO - Sleep for 2 seconds.

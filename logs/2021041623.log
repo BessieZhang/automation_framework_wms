@@ -1,0 +1,21 @@
+2021-04-19 16:23:51,812 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='app']/div[2]/div[2]/div[3]/div[1]/input 
+2021-04-19 16:23:51,989 - BasePage - INFO - Had type ' 17826875820 '  in input box.
+2021-04-19 16:23:52,035 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[@id='app']/div[2]/div[2]/div[3]/div[2]/input 
+2021-04-19 16:23:52,266 - BasePage - INFO - Had type ' bessie1234!! '  in input box.
+2021-04-19 16:23:52,295 - BasePage - INFO - Had find the element ' 登录 ' successful by xpath via value: //*[@id='app']/div[2]/div[2]/div[3]/div[5]/button 
+2021-04-19 16:23:52,398 - BasePage - INFO - The element '  's was clicked.
+2021-04-19 16:23:52,753 - BasePage - INFO - Had find the element ' qa-bs注册 ' successful by xpath via value: //*[text()='qa-bs注册'] 
+2021-04-19 16:23:52,784 - BasePage - INFO - Had find the element ' qa-bs注册 ' successful by xpath via value: //*[text()='qa-bs注册'] 
+2021-04-19 16:23:52,842 - BasePage - INFO - The element ' qa-bs注册 's was clicked.
+2021-04-19 16:23:55,710 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[text()='销售'] 
+2021-04-19 16:23:55,828 - BasePage - INFO - The element ' 销售 's was clicked.
+2021-04-19 16:23:55,862 - BasePage - INFO - Had find the element ' 新增订单 ' successful by xpath via value: //*[@id='menuBar']/li[3]/ul/li[1]/ul/li[8]/span[1] 
+2021-04-19 16:23:55,962 - BasePage - INFO - The element '  's was clicked.
+2021-04-19 16:23:57,979 - BasePage - INFO - Had switch to the iframe.
+2021-04-19 16:23:59,981 - BasePage - INFO - Sleep for 2 seconds.
+2021-04-19 16:24:00,004 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*[text()='店铺名称:']/../div/div/div/div/input 
+2021-04-19 16:24:01,135 - BasePage - INFO - Had type ' 自动化测试店铺勿动 '  in input box.
+2021-04-19 16:24:03,166 - BasePage - INFO - Had find the element ' [其他平台]自动化测试店铺勿动 ' successful by xpath via value: //*[@id='d_ddShop']/div/div/div/div/table/tbody/tr/td 
+2021-04-19 16:24:03,279 - BasePage - INFO - The element '  's was clicked.
+2021-04-19 16:24:03,311 - BasePage - INFO - Had find the element ' 保存 ' successful by xpath via value: //*[@id='d_butSave']/span[1] 
+2021-04-19 16:24:03,500 - BasePage - INFO - The element ' 保存 's was clicked.
